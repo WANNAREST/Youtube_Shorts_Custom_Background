@@ -11,7 +11,7 @@ Download the script file from this repository.
 
 Open Tampermonkey and click on Create a new script.
 
-Delete all existing code and paste the downloaded script.
+Paste the downloaded script.
 
 Save the script.
 
